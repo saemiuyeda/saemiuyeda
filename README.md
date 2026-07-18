@@ -1,7 +1,8 @@
 ## Saemi Uyeda
 
-- 📝 Estudante de Engenharia de Software
-- 🌱 Estudando Python, SQL e Análise de Dados
+- 🎓 Estudante de Engenharia de Software
+- 🐍 Python | SQL | Desenvolvimento de Software
+- 📝 Projetos focados em Engenharia de Software
 
  <div>
   <a href="https://github.com/saemiuyeda">
