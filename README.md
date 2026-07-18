@@ -1,15 +1,16 @@
-## Saemi Uyeda
+## Olá, eu sou a Saemi
 
-- 🎓 Estudante de Engenharia de Software
-- 🐍 Python | SQL | Desenvolvimento de Software
-- 📝 Projetos focados em Engenharia de Software
+🎓 Estudante de Engenharia de Software
 
- <div>
-  <a href="https://github.com/saemiuyeda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saemiuyeda&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saemiuyeda&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-    
+Atualmente estou estudando:
+- Python
+- SQL
+- Desenvolvimento Backend
+
+🎯 Atualmente desenvolvendo:
+Job Application Tracker
+Sistema para análise e gerenciamento de candidaturas orientado a dados.
+
   ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Saemi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
