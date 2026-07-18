@@ -3,12 +3,6 @@
 - 🎓 Estudante de Engenharia de Software
 - 🐍 Python | SQL | Desenvolvimento de Software
 - 📝 Projetos focados em Engenharia de Software
-
- <div>
-  <a href="https://github.com/saemiuyeda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saemiuyeda&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saemiuyeda&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
     
   ##
 <div style="display: inline_block"><br>
